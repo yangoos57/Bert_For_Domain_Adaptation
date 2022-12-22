@@ -132,3 +132,4 @@ dmypy.json
 preprocess.ipynb
 data/raw
 .DS_Store
+model
