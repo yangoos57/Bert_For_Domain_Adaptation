@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # 추가
-preprocess.ipynb
 data/raw
 .DS_Store
 model
