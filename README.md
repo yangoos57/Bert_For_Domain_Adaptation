@@ -11,7 +11,7 @@
 
 - Pre-trained 모델을 세부 분야(ex 정치, 경제, 과학 등)에 적합한 모델로 만들기 위해 추가 학습하는 단계로서 Fine-tuning 이전에 수행
 - Domain Adaptation 수행 방법은 모델을 처음부터 학습하는 방법과 동일하기 때문에 `Further pre-training`, `Continutal pre-training`이라는 용어로도 불림.
-- Fine-tuning과 Domain Adaptation에 대한 소개는 [[NLP] Further Pre-training 및 Fine-tuning 정리](https://yangoos57.github.io/blog/DeepLearning/paper/Finetuning/Finetuning/) 참고
+- Fine-tuning과 Domain Adaptation에 대한 소개는 [[NLP] Further Pre-training 및 Fine-tuning 정리](https://yangoos57.github.io/blog/DeepLearning/paper/Finetuning/Finetuning) 참고
 
 <br/>
 
